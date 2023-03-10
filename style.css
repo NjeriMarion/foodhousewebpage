@@ -1,0 +1,341 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    color: #495057;
+    margin-bottom: 2%;
+    display: flex;
+    font-family:serif;
+
+}
+.navbar ul{
+    display: flex;
+    gap: 20%;
+    list-style: none;
+
+}
+#foodhouse{
+    margin-left: 4%;
+    color: #e67700;
+    font-style:italic;
+    margin-right: 25%;
+    font-weight: 300;
+}
+#home{
+    color: #e67700;
+}
+#signin{
+    margin-left: 50%;
+}
+.toptextplusImage{
+    display: flex;
+    margin: 5%;
+    margin-top: 2%;
+    border-radius: 8%;
+    border-style: none;
+    background-color:#fff4e6;
+    gap: 20%;
+    padding-top: 50px;
+    padding-left: 60px;
+    padding-bottom: 50px;
+    padding-right: 70px;
+}
+.toptextplusImage{
+    font-size: x-large;
+}
+.imageone{
+    border-radius: 100%;
+}
+#healthylife{
+    color: #e67700;
+}
+#orderbutton{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 10%;
+    padding:15px  40px ;
+    border-style: none;
+    border-radius: 18%;
+    background-color: #fcc419;
+    color: white;
+}
+.Popular-foods{
+    color: black;
+    margin-top: 3%;
+}
+.Popular-foods ul{
+    list-style: none
+}
+#onlinestore{
+    font-size:large;
+    font-style: italic;
+    margin-left: 43%;
+    font-weight: bold;
+}
+#popularfoods{
+    margin-left: 40%;
+    margin-bottom: 5%;
+}
+.fourmeals{
+    color: black;
+    margin-top: 3%;
+    display: flex;
+    gap: 5%;
+}
+#fruitdishimage{
+    height: 70%;
+    width: 85%;  
+    border-radius: 100%;
+}
+.fruitdish1{
+    margin-left: 5%;
+}
+.fruitdish2{
+    margin-right: 7%;
+}
+.pizzadish{
+    margin-right: 5%;
+}
+.ratings li{
+    display: flex;
+    /* list-style: disc; */
+}#fruitdishimage2{
+    height: 70%;
+    width: 140%; 
+    border-radius: 100%;
+}
+#sushiimage2{
+    height: 70%;
+    width: 80%;
+    border-radius: 100%;
+}
+#pizzaimage{
+    height: 70%;
+    width: 140%;
+    border-radius: 100%;
+}
+#addToCart{
+    background-color:#fcc419 ;
+    border-style: none;
+    padding: 10px 35px;
+    border-radius: 8%;
+    color: white;
+} 
+.offersection{
+    background-color: #fff4e6;
+    display: flex;
+    gap: 20%;
+    margin-top: 5%;
+    padding-left: 85px;
+    padding-top: 30px;
+
+}
+.offersection h1{
+    font-size: xxx-large;
+    margin-top: 5%;
+} 
+#spaghettiimage{
+    border-radius: 100%;
+} 
+#seemenu{
+    margin-top: 15%;
+    margin-bottom: 15%;
+    margin-left: 10%;
+    padding:15px  40px ;
+    border-style: none;
+    border-radius: 18%;
+    background-color: #fcc419;
+    color: white;
+}
+#offerbutton{
+    color: white;
+    background-color: #ffa94d;
+    border-style: none;
+    border-radius: 10%;
+    margin-top: 15%;
+    padding: 5px 8px;
+}
+.deliveryoptions{
+    margin-top: 5%;
+    margin-left: 35%;
+    font-style:unset;
+}
+.deliveryoptions h1{
+    font-weight: bolder;
+    margin-left: 9%;
+    font-size: xx-large;
+
+}
+#qualityfood{
+    font-weight: bold;
+    margin-left: 15%;
+
+}
+#burgerimage{
+    height: 25%;
+    width: 18%;
+    border-radius: 100%;
+    margin-top: 5%;
+    margin-left: 2%;
+}
+.adds{
+    margin-top: 5%;
+    display: flex;
+    list-style: none;
+    /* background-color: #fff4e6; */
+    margin-left: 10%;
+    font-weight: bold;
+    font-size: large;
+}
+.delivery{
+    display: flex;
+    gap: 5%;
+}
+#loadmore ul{
+    list-style: circle;
+    display: flex;
+    gap: 5px;
+    margin-left: 50%;
+    color:#e67700;
+    margin-top: 5%;
+    
+}
+#quote{
+    font-weight:bolder;
+    /* font-size: xx-large; */
+    color: #e67700;
+    margin-left: 40%;
+}
+#testimonial{
+    margin-left: 40%;
+    margin-top: 5%;
+    
+}
+#feedback{
+    margin-left: 35%;
+    font-size: xx-large;
+}
+#statement{
+    margin-left: 30%;
+}
+#name{
+    margin-left: 40%;
+}
+.uifaces{
+    display: flex;
+    margin-top: 3%;
+    gap: 2%;
+    margin-left: 30%;
+}
+#uiface{                 
+    border-radius: 100%;
+
+}
+#ourservice{
+    margin-left: 40%;
+    font-size: x-large;
+    margin-top: 8%;
+
+}
+.footer{
+    display: flex;
+    background-color: black;
+    color: white;
+    gap: 10%;
+    padding-top: 10px;
+    line-height: 25px;
+
+}
+.footer2{
+    background-color: #fcc419;
+    display: flex;
+    gap:20%;
+    padding-left: 20%;
+    line-height: 25px;
+
+}
+.footer ul{
+    /* display: flex; */
+    list-style: none;
+}
+.footer2 ul{
+    list-style: none;
+    display: flex;
+    gap: 10%;
+}
+#company{
+    margin-bottom: 15%;
+    font-weight: bold;
+}
+#fudo{
+    margin-bottom: 15%;
+    font-weight: bold;
+}
+#menu{
+    margin-bottom: 15%;
+    font-weight: bold;
+}
+.logos{
+    margin-left: 20%;
+    display: flex;
+    list-style: none;
+    gap: 15%;
+}
+#icons{
+    color: #e67700;
+    height: 90px;
+    width: 80px;
+}
+#icon-text{
+    font-weight: bold;
+}
+.subscriptiondiv{
+    background-color: #ffe8cc;
+}
+.wheretofind{
+    display: flex;
+    gap: 20%;
+    margin-left: 10%;
+    padding-top: 8%;
+    font-size: larger;
+}
+.wheretofind h4{
+    color: #e67700;
+    font-size: larger;
+}
+.wheretofind h1{
+    font-size: xxx-large;
+}
+#downloadbuttons{
+    color: white;
+    background-color: black;
+    border-radius: 15%;
+    border-style: none;
+    padding: 10px 20px;
+    margin-left: 4%;
+}
+.newsletterdiv{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    padding-bottom: 5%;
+    gap: 30%;
+    font-size: larger;
+}
+#emailbutton{
+    margin-top: 20%;
+    /* margin-: 75%; */
+    padding: 20px 15px;
+    text-align: center;
+    border-radius: 8%;
+    border-style: none;
+}
+@media screen{ 
+    .p{
+        min-width: 600px
+    }
+    .div{
+        min-width: 600px;
+    }
+}  
